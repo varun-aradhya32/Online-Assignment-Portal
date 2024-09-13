@@ -1,0 +1,4 @@
+Enrollment_no: 1606002
+Assignment Id: 1
+Marks: 10
+
