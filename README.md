@@ -16,8 +16,6 @@ enabling them to put up a fast response for students as well as increasing the q
 of the feedback provided to students.
 ![Img1](/Screenshots/1.JPG)
 ![Img2](/Screenshots/2.JPG)
-![Img3](/Screenshots/3.JPG)
-![Img4](/Screenshots/4.JPG)
 ![Img5](/Screenshots/5.JPG)
 ![Img6](/Screenshots/6.JPG)
 ![Img7](/Screenshots/7.JPG)
